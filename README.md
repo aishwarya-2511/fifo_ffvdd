@@ -1,4 +1,4 @@
 
 # fifo_ffvdd
-Asynchronous FIFO
+Synchronous FIFO
 
